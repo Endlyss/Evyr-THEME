@@ -1,0 +1,70 @@
+/*--------------------
+	--Shortcode defaults--
+	--------------------*/
+	.divider-sc
+	{
+		display: block;
+		margin: 20px;
+		height: 1px;
+	}
+	.evyr_row
+	{
+		display: inline-block;
+		width: 100%;
+		position: relative;
+	}
+
+		.evyr_grid_1, .evyr_grid_2, .evyr_grid_3, .evyr_grid_4, .evyr_grid_5, .evyr_grid_6, .evyr_grid_7, .evyr_grid_8, .evyr_grid_9, .evyr_grid_10, .evyr_grid_11, .evyr_grid_12
+		{
+			position: relative;
+			float: left;
+			margin: 0 1%;
+		}
+		.evyr_grid_1
+		{
+			width: 6.33%;
+		}
+		.evyr_grid_2
+		{
+			width: 14.66%;
+		}
+		.evyr_grid_3
+		{
+			width: 23%;
+		}
+		.evyr_grid_4
+		{
+			width: 31.33%;
+		}
+		.evyr_grid_5
+		{
+			width: 39.66%;
+		}
+		.evyr_grid_6
+		{
+			width: 48%;
+		}
+		.evyr_grid_7
+		{
+			width: 56.33%;
+		}
+		.evyr_grid_8
+		{
+			width: 64.66%;
+		}
+		.evyr_grid_9
+		{
+			width: 73%;
+		}
+		.evyr_grid_10
+		{
+			width: 81.33%;
+		}
+		.evyr_grid_11
+		{
+			width: 89.66%;
+		}
+		.evyr_grid_12
+		{
+			width: 98%;
+		}
